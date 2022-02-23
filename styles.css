@@ -1,0 +1,14 @@
+body{
+    background-color: #001524;
+}
+.flex-container {
+
+/* draw a square box with flexbox */
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ff9002;
+    width: 15rem;
+    /* set a height of 2rem */
+    height: 2rem;
+    padding: 10px;
+}
